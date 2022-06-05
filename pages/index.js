@@ -1,6 +1,7 @@
 import React from 'react'
 import Head from 'next/head'
 import Navbar from './component/Navbar'
+import Layout from './component/Layout'
 
 const Index = () => (
     <div>
@@ -8,10 +9,9 @@ const Index = () => (
             <title>Fantur</title>
             <link rel='' href='' />
         </Head>
-        <Navbar />
-        <main>
-            <h1>Fantur App</h1>
-        </main>
+        <Layout>
+            <h1>Home page</h1>
+        </Layout>
 
     </div>
 )

@@ -11,6 +11,14 @@ const NavEltos = () => {
       name: "Catalogo",
       href:"/catalogo"
     },
+    {
+      name: "About",
+      href:"/about"
+    },
+    {
+      name: "Contact",
+      href:"/contact"
+    },
   ]);
 
   return (
