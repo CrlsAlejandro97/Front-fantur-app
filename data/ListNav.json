@@ -4,15 +4,7 @@
     "href": "/"
   },
   {
-    "name": "Package",
-    "href": "/package"
-  },
-  {
-    "name": "About",
-    "href": "/about"
-  },
-  {
-    "name": "Contact",
-    "href": "/contact"
+    "name": "Catalogo",
+    "href": "/catalogo"
   }
 ]
