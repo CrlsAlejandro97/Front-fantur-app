@@ -1,4 +1,4 @@
-import Navbar from './navbar'
+import Navbar from "./navbar";
 
 export default function Layout({ children }) {
   return (
@@ -6,5 +6,5 @@ export default function Layout({ children }) {
       <Navbar />
       <main>{children}</main>
     </>
-  )
+  );
 }
